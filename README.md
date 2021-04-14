@@ -4,6 +4,7 @@ This repository contains the notebook with symbolic computations in SAGE for the
 ## Update
 
 The paper has been published as
+
 Barker, Blake, Rafael Monteiro, and Kevin Zumbrun. "Transverse bifurcation of viscous slow MHD shocks." Physica D: Nonlinear Phenomena 420 (2021): 132857.
 
-https://www.sciencedirect.com/science/article/pii/S0167278921000154?casa_token=5nsc2XDzgTIAAAAA:i37mMgfBZFdIFZMeUpZeazntU5YmTiQDzqp7cDjGqLlVLfRrj-z9acn92oHNxNgK4SGpboo
+https://doi.org/10.1016/j.physd.2021.132857
