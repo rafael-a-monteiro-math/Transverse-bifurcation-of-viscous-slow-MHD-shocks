@@ -1,7 +1,10 @@
-# Transverse-bifurcation-of-viscous-slow-MHD-shocks
-This repository contains the notebook with symbolic computations in SAGE for the paper "Transverse bifurcation of viscous slow MHD shocks", by Blake Barker, Rafael Monteiro, and Kevin Zumbrun. The code is not intended to be optimized,  and in several parts (believe it or not) we chose clarity to the detriment of efficiency.  [The preprint can be found here](https://arxiv.org/abs/1901.09153).
+# Transverse bifurcation of viscous slow MHD shocks
 
-## Update
+This repository contains the notebook with symbolic computations in SAGE for the paper 
+
+> `Transverse bifurcation of viscous slow MHD shocks`, by __Blake Barker, Rafael Monteiro, and Kevin Zumbrun__. 
+
+The code has not been optimized,  and in several parts (believe it or not) we chose clarity to the detriment of efficiency.  
 
 The paper has been published as
 
@@ -27,6 +30,7 @@ abstract = {We study by a combination of analytical and numerical Evans function
 ```
 
 You can download and unzip this repository from GitHub, either interactively, or by entering
-```
+
+```bash
 git clone https://github.com/rafael-a-monteiro-math/Transverse-bifurcation-of-viscous-slow-MHD-shocks.git
 ```
